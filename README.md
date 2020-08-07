@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://app.netlify.com/sites/pwndex-forkify/deploys" target="_blank"><img src="https://api.netlify.com/api/v1/badges/30ac942c-ef1e-43aa-8316-4ec6baa278d1/deploy-status" alt="pwndex-forkify-deploy-status"></a>
+</p>
+
 ![Forkify](pic.png)
 
 # About Forkify
